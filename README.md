@@ -12,7 +12,7 @@ To start the slide show:
 
 ## Live Demo
 
-Check out the live presentation at [vercel.com/crimescenedeck](https://vercel.com/crimescenedeck)
+Check out the live presentation at [crimescene-slidedeck.vercel.app](https://crimescene-slidedeck.vercel.app)
 
 ## Development
 
