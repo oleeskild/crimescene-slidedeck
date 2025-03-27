@@ -64,6 +64,7 @@ title: Book
   <div class="flex flex-col items-center">
     <img class="rounded-full w-48 h-48" src="https://councils.forbes.com/profile/_next/image?url=https%3A%2F%2Fs3.amazonaws.com%2Fcco-avatars%2F570fdc0e-efea-4720-8269-45c7bcd9a990.png&w=384&q=75" alt="Adam Tornhill" />
     <p class="mt-4 text-center">Adam Tornhill</p>
+    <img class="w-24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" />
   </div>
 </div>
 
